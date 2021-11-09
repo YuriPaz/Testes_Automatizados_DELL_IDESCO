@@ -1,1 +1,1 @@
-# Testes_Automatizados_DELL_IDESCO
+Curso Dell + Idesco (Testes Automatizados - [TDD] [BDD])
